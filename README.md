@@ -14,7 +14,6 @@ Message me on discord rockstar#1225 if you want to add/be involved with this pro
 # Kahoot
 
 - Flood
-- Crash (Might add)
 
 # Quizziz
 
