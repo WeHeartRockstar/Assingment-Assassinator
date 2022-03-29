@@ -116,6 +116,7 @@ class Kahoot:
             #WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="root"]/div[1]/div/div[3]/div[2]/main/div/form/button')))           
             print(Fore.GREEN + f"[!] Flooded Kahoot {pin} with username {username} [!]" + Fore.RESET)
         except KeyboardInterrupt:
+            #Have to fix this, it isn't working for some reason. 
             driver.close()
             driver.quit()
             return_back()
@@ -127,7 +128,7 @@ class Kahoot:
         print("")
 
         bots = int(input("Enter Number of bots you want to join > "))
-        pin = str('6125283')#str(input("Enter Game Pin > "))
+        pin = str(input("Enter Game Pin > "))
 
         for i in range(bots):
             t = threading.Thread(target=Kahoot.flooder(pin))
