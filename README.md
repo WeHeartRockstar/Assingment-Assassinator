@@ -4,18 +4,20 @@ Not completed and probably won't be for a while. Just started on this and have t
 
 A toolbox that will hopefully autocomplete Edpuzzle, Gimkit, Quizziz, Quizlet, and more!
 
+# Current Support
+
 # Kahoot
 
 - Flood
 
-##Future Plans
+## Future Plans
 
-#Quizlet
+# Quizlet
   - Autocomplete (study sets)
   - Quizlet live flooder
-#Edpuzzle
+# Edpuzzle
   - Autocomplete
   - Skip bypass (bypasses the skip block)
-#Gimkit
+# Gimkit
   - Autocomplete
   - Flood
