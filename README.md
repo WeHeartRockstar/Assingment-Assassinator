@@ -6,18 +6,18 @@ A toolbox that will hopefully autocomplete Edpuzzle, Gimkit, Quizziz, Quizlet, a
 
 # Current Support
 
-# Kahoot
+  # Kahoot
 
-- Flood
+  - Flood
 
 ## Future Plans
 
-# Quizlet
-  - Autocomplete (study sets)
-  - Quizlet live flooder
-# Edpuzzle
-  - Autocomplete
-  - Skip bypass (bypasses the skip block)
-# Gimkit
-  - Autocomplete
-  - Flood
+  # Quizlet
+    - Autocomplete (study sets)
+    - Quizlet live flooder
+  # Edpuzzle
+    - Autocomplete
+    - Skip bypass (bypasses the skip block)
+  # Gimkit
+    - Autocomplete
+    - Flood
