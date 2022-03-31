@@ -14,9 +14,6 @@ A toolbox that will hopefully autocomplete Edpuzzle, Gimkit, Quizziz, Quizlet, a
   ## Quizlet
     - Autocomplete (study sets)
     - Quizlet live flooder
-  ## Edpuzzle
-    - Autocomplete
-    - Skip bypass (bypasses the skip block)
   ## Gimkit
     - Autocomplete
     - Flood
