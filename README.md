@@ -8,6 +8,7 @@ A toolbox that will hopefully autocomplete Edpuzzle, Gimkit, Quizziz, Quizlet, a
 
   ## Kahoot
     - Flood
+    - Get Answers
 
 # Future Plans
 
